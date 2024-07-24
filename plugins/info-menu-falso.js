@@ -102,15 +102,15 @@ ciudad = 'Lima'
              m.react('📚') 
 let menu = `\`¡HOLA!\` 👋🏻 • @${m.sender.split`@`[0]}\n${fantasy}${conn.user.jid == global.conn.user.jid ? '' : `\n║˚₊·˚₊· ͟͟͞͞➳* 𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫 𝑺𝒖𝒃 𝑩𝒐𝒕 ⇢ wa.me/+${global.conn.user.jid.split`@`[0]}`}
 
-> ├┈‧͙⁺˚*･༓☾　®　☽༓･*˚⁺‧͙ 
-> ├┈ 𝒃𝒚 𝑾𝒊𝒍𝒎𝒆𝒓 𝒐𝒇𝒄
+> ├┈‧͙⁺˚*▄︻┻═┳一*˚⁺‧͙ 
+> ├┈ ¿웃? ZxYerSixZxㅤも​
 > ├┈ *Canal oficial:* https://whatsapp.com/channel/0029Vaj67qQJUM2Wa5Ey3y1v
     *Fecha y hora*
 > ┣ 𝙵𝙴𝙲𝙷𝙰 𝚈 𝙷𝙾𝚁𝙰: \`${formatDate}\`
 > ┣ 𝙿𝙰𝙸𝚂: \`${nombreLugar}\`
 > ┣ 𝙲𝙸𝚄𝙳𝙰𝙳: \`${ciudad}\`
 > ┣ 𝚄𝚃𝙸𝙻𝙸𝚉𝙰: ${wa}
-> *╘━ꥇ۬════•| ✿ |•════╝* 
+> *╰──────•◈•──────╯* 
  ${readMore}
 
 > *╭━ \`<FUNCIÓN DE SER UN SUB BOT/>\`
