@@ -1,5 +1,5 @@
 ------------------
-> **aviso**: Yo Wilmer ya me iré retirando de el tema de los bots y en algún momento este bot quedará en obsoleto y sin manteniendo, gracias por este recorrido de los bots y gracias por sus preferencia.
+> **aviso**: Bienvenido espero que sea de ttu agrado el bot SonGOKU-MD gracia por su preferencia 
 ------------------
 
 
