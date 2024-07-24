@@ -17,7 +17,7 @@ src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&
 <p align="center">
 <a href="#"><img title="FantasyBot-MD" src="https://img.shields.io/badge/𝐒𝐈 𝐓𝐄 𝐀𝐆𝐑𝐀𝐃𝐀 𝐄𝐋 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 𝐌𝐄 𝐀𝐏𝐎𝐘𝐀𝐑𝐈𝐀𝐒 𝐂𝐎𝐍 𝐔𝐍𝐀 🌟-¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 <p align="center">
-<a href="https://github.com/Wilsmac"><img title="FantasyBot-MD"src="https://img.shields.io/badge/𝗚𝗥𝗔𝗖𝗜𝗔𝗦 𝗣𝗢𝗥 𝗦𝗨 𝗣𝗥𝗘𝗙𝗘𝗥𝗘𝗡𝗖𝗜𝗔.-red?colorA=000000&colorB=000000&style=for-the-badge"></a> 
+<a href="https://github.com/YerTX2"><img title="FantasyBot-MD"src="https://img.shields.io/badge/𝗚𝗥𝗔𝗖𝗜𝗔𝗦 𝗣𝗢𝗥 𝗦𝗨 𝗣𝗥𝗘𝗙𝗘𝗥𝗘𝗡𝗖𝗜𝗔.-red?colorA=000000&colorB=000000&style=for-the-badge"></a> 
 <a href="https://github.com/Wilsmac"><img title="FantasyBot-MD" src="https://img.shields.io/badge/𝐂𝐎𝐌𝐏𝐀𝐓𝐈𝐁𝐋𝐄 𝐂𝐎𝐍 𝐋𝐀𝐒 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐄𝐒 𝐌𝐔𝐋𝐓𝐈 𝐃𝐈𝐒𝐏𝐎𝐒𝐈𝐓𝐈𝐕𝐎𝐒 𝐃𝐄 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏-red?colorA=000000&colorB=000000&style=for-the-badge"></a>
 </p>
 
@@ -29,17 +29,17 @@ src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&
 
 </p>
 <p align="center"> 
-<a href="https://github.com/Wilsmac/FantasyBot-MD-v1"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝙉𝙖𝙩𝙨𝙪𝙠𝙞𝘽𝙤𝙩++;𝙷𝚘𝚕𝚊,+𝙶𝚛𝚊𝚌𝚒𝚊𝚜+𝙿𝚘𝚛+𝚅𝚒𝚜𝚒𝚝𝚊𝚛+𝙴𝚕+𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚘" height="40px"></a> 
+<a href="https://github.com/Wilsmac/FantasyBot-MD-v1"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=SonGoku-MD++;𝙷𝚘𝚕𝚊,+𝙶𝚛𝚊𝚌𝚒𝚊𝚜+𝙿𝚘𝚛+𝚅𝚒𝚜𝚒𝚝𝚊𝚛+𝙴𝚕+𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚘" height="40px"></a> 
 </p>
  
 <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=19&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝙉𝙖𝙩𝙨𝙪𝙠𝙞𝘽𝙤𝙩++;𝙶𝚛𝚞𝚙𝚘𝚜+𝙾𝚏𝚒𝚌𝚒𝚊𝚕𝚎𝚜+𝙳𝚎" height="35px"></a> 
+<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=19&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=SonGoku-MD++;𝙶𝚛𝚞𝚙𝚘𝚜+𝙾𝚏𝚒𝚌𝚒𝚊𝚕𝚎𝚜+𝙳𝚎" height="35px"></a> 
 </p>
 
 <a
-href="https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43" target="white"><img src="https://img.shields.io/badge/Canal- oficial del bot-000000?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
-<a href="https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl" target="white"><img src="https://img.shields.io/badge/Grupo-OfiCIAL DEL BOT-000000?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
-<a href="https://chat.whatsapp.com/HHRk7p4QDzdCP9oYHS1Bzq" target="blank"><img src="https://img.shields.io/badge/grupo- de soporté-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+href="https://whatsapp.com/channel/0029Vaj67qQJUM2Wa5Ey3y1v" target="white"><img src="https://img.shields.io/badge/Canal- oficial del bot-000000?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
+<a href="https://whatsapp.com/channel/0029Vaj67qQJUM2Wa5Ey3y1v" target="white"><img src="https://img.shields.io/badge/Grupo-OfiCIAL DEL BOT-000000?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
+<a href="https://whatsapp.com/channel/0029Vaj67qQJUM2Wa5Ey3y1v" target="blank"><img src="https://img.shields.io/badge/grupo- de soporté-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 --------------------------
 > LOS NUMEROS QUE NO SEAN BOTS DE FANTASY NO SE ADMITEN POR LO TANTO SERÁN ELIMINADOS.
 --------------------------
