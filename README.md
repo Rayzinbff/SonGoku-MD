@@ -14,7 +14,7 @@ href="https://wa.me/+51907376960 " target="white"><img src="/badge/☄️-Prueba
 <a
 href="https://www.paypal.com/paypalme/wilmermacu1" target="black"><img
 src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" />
-<a href="https://www.instagram.com/cmwilmer4?igsh=eGN1cWk5MmFkbWM1" target="black"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=back" />
+<a href="https://www.instagram.com/yer29_07?igsh=eGN1cWk5MmFkbWM1" target="black"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=back" />
 <p align="center">
 <a href="#"><img title="FantasyBot-MD" src="https://img.shields.io/badge/𝐒𝐈 𝐓𝐄 𝐀𝐆𝐑𝐀𝐃𝐀 𝐄𝐋 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 𝐌𝐄 𝐀𝐏𝐎𝐘𝐀𝐑𝐈𝐀𝐒 𝐂𝐎𝐍 𝐔𝐍𝐀 🌟-¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 <p align="center">
