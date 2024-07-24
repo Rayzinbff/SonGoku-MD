@@ -216,7 +216,7 @@ body: { text: menu },
 footer: { text: fantasy + ` \n☃️` },
 header: { title: `⋆┈┈｡❃ུ۪ ❀ུ۪ ❁ུ۪ ❃ུ۪ ❀ུ۪ ｡┈┈⋆\n-ˋˏᴜsᴜᴀʀɪᴏ: ˎˊ-\n╭_____________❂_____________╮\n┃🍁❥̷᜔ ${username}❁⃟ࣾ❥̷.⁞. ┃\n╰_____________❂_____________╯
      ╰ᴍᴇɴᴜ́:\n┋❀̥˚SonGOKU-MD┋
- ━━━━━━━༺۵༻━━━━━━━_____________❂_____________ \n_${global.saludo}_`, subtitle: "test4", hasMediaAttachment: false },
+    _____________❂_____________ \n_${global.saludo}_`, subtitle: "test4", hasMediaAttachment: false },
 nativeFlowMessage: { buttons: [{ 
 name: "single_select",
 buttonParamsJson
