@@ -1,6 +1,5 @@
 import fg from 'api-dylux'
-import yts from 'yt-search'
-import { youtubedl, youtubedlv2 } from '@bochilteam/scraper'
+import yts from 'yt-search'
 import fetch from 'node-fetch' 
 let limit = 800
 
