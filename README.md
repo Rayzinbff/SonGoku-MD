@@ -9,10 +9,9 @@ href="https://wa.me/+51907376960 " target="white"><img src="/badge/☄️-Prueba
 <p align="center">
 <img src="https://telegra.ph/file/98bdf28c179a2a6506a5a.jpg" alt="FantasyBot-MD-v1" width="900"/>
 </p>
-<
 <a 
 <a
-href="https://www.paypal.com/paypalme/wilmermacu1" target="black"><img
+href="https://www.paypal.com/paypalme/YerSix" target="black"><img
 src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" />
 <a href="https://www.instagram.com/yer29_07?igsh=eGN1cWk5MmFkbWM1" target="black"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=back" />
 <p align="center">
