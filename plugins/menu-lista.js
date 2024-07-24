@@ -97,14 +97,16 @@ ${conn.user.jid == global.conn.user.jid ? '' : `\n𝙉𝙖𝙩𝙨𝙪𝙠𝙞 [
  *${lenguajeCD['smsBanUsers']()}* ➺ _${Object.entries(global.db.data.users).filter(user => user[1].banned).length}_
 ─━━━━┉❈⏤͟͟͞͞★꙲⃝͟🍁❈┉━━━━─
 
-  ♡  ∩_∩
-  （„• ֊ •„)♡
- ┏━━∪∪━⏤͟͟͞͞★꙲⃝͟🌷❈┉━━━┓
+  OO═══∩═══OO
+...........╭╬╮ ◢
+-✶-╭▅▇□□█▇▆▅▄▃▂▁(╳)█╮
+.....╰═▃_▁∠════▔▔▔
+............╙O ╙O
  ╰ᴇᴄᴏɴᴏᴍɪ́ᴀ ꙰
 \`Experiencia:\` ${exp} ⚡
 \`Diamantes:\` ${limit} 💎
 \`Coins:\` ${money} 💵
-\`Tokens:\` ${joincount} 🪙\n ┗━━━━⏤͟͟͞͞★꙲⃝͟🌷❈┉━━━━━━┛`.trim()
+\`Tokens:\` ${joincount} 🪙\n ┗━━━ • ✙ • ━━━ ┛`.trim()
 
 const buttonParamsJson = JSON.stringify({
 title: lenguajeCD['smsListaMenu'](),
