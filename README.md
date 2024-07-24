@@ -4,7 +4,7 @@
 
 
 <a
-href="https://wa.me/+50587047577" target="white"><img src="https://img.shields.io/badge/☄️-Prueba la IA por tiempo limitado-000000?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
+href="https://wa.me/+51907376960 " target="white"><img src="https://img.shields.io/badge/☄️-Prueba la IA por tiempo limitado-000000?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
 
 <p align="center">
 <img src="https://telegra.ph/file/b95059bd21a2bbbd0218b.jpg" alt="FantasyBot-MD-v1" width="900"/>
@@ -74,11 +74,11 @@ href="https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43" target="white"><img
 termux-setup-storage
 ```  
 ```ts
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Wilsmac/FantasyBot-MD-v1/master/Fantasy.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://github.com/YerTX2/SonGoku-MD/master/YerTX2.sh | bash
 ```
 
  <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=20&duration=3000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝚃𝚎𝚛𝚖𝚞𝚡++;𝙰𝚌𝚝𝚒𝚟𝚊+𝙴𝙻+𝙱𝚘𝚝+𝙴𝚗" height="50px"></a> 
+<a href="https://github.com/YerTX2"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=20&duration=3000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝚃𝚎𝚛𝚖𝚞𝚡++;𝙰𝚌𝚝𝚒𝚟𝚊+𝙴𝙻+𝙱𝚘𝚝+𝙴𝚗" height="50px"></a> 
 </p>
 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
@@ -91,7 +91,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```
-git clone https://github.com/Wilsmac/NatsukiBot && cd NatsukiBot
+git clone https://github.com/YerTX2/SonGoku-MD && cd SonGoku-MD
 ```
 
 ```
@@ -102,24 +102,24 @@ yarn install && npm install
 npm start
 ```
 
-## usar a Natsuki 24/7
+## usar a SonGoku-MD 24/7
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 
 <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=♥️✨++;𝙴𝚗+𝙲𝚊𝚜𝚘+𝙳𝚎+𝙳𝚎𝚝𝚎𝚗𝚎𝚛𝚜𝚎+𝚎𝚗+𝚃𝚎𝚛𝚖𝚞𝚡" height="70px"></a> 
+<a href="https://github.com/YerTX2"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=♥️✨++;𝙴𝚗+𝙲𝚊𝚜𝚘+𝙳𝚎+𝙳𝚎𝚝𝚎𝚗𝚎𝚛𝚜𝚎+𝚎𝚗+𝚃𝚎𝚛𝚖𝚞𝚡" height="70px"></a> 
 </p>
 
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd
-> cd NatsukiBot
+> cd SonGoku-MD
 > npm start
 ```
 
 <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[000000]&center=falso&vCenter=falso&lines=✨♥️++;Pedir+otro+codigo+qr+en+termux" height="60px"></a> 
+<a href="https://github.com/YerTX2"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[000000]&center=falso&vCenter=falso&lines=✨♥️++;Pedir+otro+codigo+qr+en+termux" height="60px"></a> 
 </p>
   
 
@@ -139,6 +139,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ## <h2>`PROPIETARIO DEL BOT`</h2> 
 
-<a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="200" height="200" alt="Wilsmac"/></a>
+<a href="https://github.com/YerTX2"><img src="https://github.com/YerTX2.png" width="200" height="200" alt="Wilsmac"/></a>
 
-`DESARROLLADOR DEL BOT (@WILMER OFC)`
+`DESARROLLADOR DEL BOT (@YerTX2)`
