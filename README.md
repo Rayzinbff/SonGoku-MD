@@ -10,7 +10,7 @@ href="https://wa.me/+51907376960 " target="white"><img src="/badge/☄️-Prueba
 <img src="https://telegra.ph/file/98bdf28c179a2a6506a5a.jpg" alt="FantasyBot-MD-v1" width="900"/>
 </p>
 <a href="https://x.com/wilmerofc1" target="black"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=back" />
-<a href="https://www.facebook.com/profile.php?id=100088614427458&mibextid=ZbWKwL" target="black"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=back" />
+<a 
 <a
 href="https://www.paypal.com/paypalme/wilmermacu1" target="black"><img
 src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" />
