@@ -105,8 +105,8 @@ global.desc = '' // Add short description (20 caractres max)
 global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se aplicará sólo si su whasapp no tiene descripción)
 global.country = '' // Add country, example: 🇵🇪
 //------------------------------------------------
-global.fantasy = " 𝗦𝗼𝗻𝗚𝗼𝗸𝘂\ZxYerSixZx" // new name
-global.YerTX2 = "𝗦𝗼𝗻𝗚𝗼𝗸𝘂 " // fkontak2
+global.fantasy = " 𝗦𝗼𝗻𝗚𝗼𝗸𝘂\n new name
+global.YerTX2 = "𝗦𝗼𝗻𝗚𝗼𝗸𝘂" // fkontak2
 global.packname = `├┈‧͙⁺˚･༓☾ ZxYerSixZx☽༓･˚⁺‧͙\n├┈ ⟴ 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n├┈ @ZxYerSixZx\n├┈ ⟴ 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n├┈ @yer29_07\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊷⇲⊰⌏`
 global.author =  ` ├┈‧͙･༓☾ ZxYerSixZx ☽༓･˚\n├┈⟴ 𝙶𝚒𝚝𝙷𝚞𝚋:\n├┈ YerTX2\n├┈ ⟴ 𝙿𝚊𝚢𝙿𝚊𝚕:\n├┈ @YerSix\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊷⇲⊰⌏`
 
