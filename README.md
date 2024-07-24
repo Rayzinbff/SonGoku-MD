@@ -4,7 +4,7 @@
 
 
 <a
-href="https://wa.me/+51907376960 " target="white"><img src="https://telegra.ph/file/98bdf28c179a2a6506a5a.jpg/badge/☄️-Prueba la IA por tiempo limitado-000000?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
+href="https://wa.me/+51907376960 " target="white"><img src="/badge/☄️-Prueba la IA por tiempo limitado-000000?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
 
 <p align="center">
 <img src="https://telegra.ph/file/98bdf28c179a2a6506a5a.jpg" alt="FantasyBot-MD-v1" width="900"/>
