@@ -135,6 +135,7 @@ let menu = `¡HOLA! 👋🏻 • ${username}\n𝘽𝙄𝙀𝙉𝘽𝙀𝙉𝙄�
 > │  ◦ _${usedPrefix}morse decodificar *morse*_
 > │  ◦ _${usedPrefix}fraseromantica_
 > │  ◦ _${usedPrefix}historia_
+> |  ◦ _${usesPrefix}spotify 
 > ╰┉ͦ━ᷫ━ⷭ┈ ⃘⵿݂۪۪۪࣭࣭፝۬۬۬͞💙ꫂ❀ᰰ᷒|²⁰|²|²³ ♡┈⊷ꫂ፝۬۬۬͞ᜓ⃘݂۪۪۪࣭࣭.─❤️⃟ᬽ፝֟━❥ᰰຼ᭢╯*`.trim()
 await conn.sendFile(m.chat, picture, 'error.mp4', menu, fake0)
 
