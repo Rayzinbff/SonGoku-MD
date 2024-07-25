@@ -113,8 +113,8 @@ global.author =  ` ├┈‧͙･༓☾ ZxYerSixZx ☽༓･˚\n├┈⟴ 𝙶�
 //----------------------------------------------------------
 
 
-global.estilo2 = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: fantasy, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
-global.textia = `ᴘᴏᴡʀᴇᴅ ʙʏ ᴡɪʟᴍᴇʀ`
+global.estilo2 = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "51907376960-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: fantasy, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.textia = `ZxYerSixZx`
 
 
 //-------------------------------------------------------------
