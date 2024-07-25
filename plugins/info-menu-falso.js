@@ -709,8 +709,8 @@ await conn.sendMessage(m.chat, { video: { url: natsuki.getRandom() }, gifPlaybac
 contextInfo: {
 isForwarded: true,
 forwardedNewsletterMessageInfo: {
-newsletterJid: '120363192435027853@newsletter',
-newsletterName: "『✯ Team Comunity Natsuki 』",
+newsletterJid: '0029Vaj67qQJUM2Wa5Ey3y1v@newsletter',
+newsletterName: "[🐉SonGOKU-MD🐉]",
 serverMessageId: -1
 },
 forwardingScore: 999,
