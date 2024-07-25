@@ -139,13 +139,13 @@ global.vs = "1.8.0"
 global.vsJB = "3.0"
 global.gt = "𝐍𝐚𝐭𝐬𝐮𝐤𝐢𝐁𝐨𝐭 ☃️"
 
-global.canalofc = "https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43"
-global.yt = "https://youtube.com/@wilmer.oficial"
+global.canalofc = "https://whatsapp.com/channel/0029Vaj67qQJUM2Wa5Ey3y1v"
+global.yt = "https://youtube.com/@akirayt6080"
 global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s"
-global.ig = "https://www.instagram.com/cmwilmer4"
-global.md = "https://github.com/Wilsmac"
+global.ig = "https://www.instagram.com/yer29_07"
+global.md = "https://github.com/YerTX2"
 global.fb = "https://www.facebook.com/groups/1039865800178898/?ref=share"
-global.tk = "https://www.tiktok.com/@wilsmac4"
+global.tk = "https://www.tiktok.com/@yer7528"
 global.ths = "https://www.threads.net/@cmwilmer4"
 global.paypal = 'https://paypal.me/'
 global.asistencia = 'https://wa.me/message/C45GXBEFTPONE1' //Contacto
