@@ -197,14 +197,14 @@ global.exito = eg
 
 //------------------------------------------------
 
-global.wm = "𝑾𝒊𝒍𝒎𝒆𝒓 𝒐𝒇𝒄"
-global.igfg = "𝐍𝐚𝐭𝐬𝐮𝐤𝐢𝐁𝐨𝐭 🌺"
+global.wm = "ZxYerSixZx"
+global.igfg = "𝔖𝔬𝔫𝔊𝔬𝔨𝔲-𝔐𝔇"
 global.wait = "⌛ *`Cargando...`*\n*✦✦⊹⊹⊹⊹⊹⊹⊹⊹✪* `[20%]`"
 global.waitt = "⏳ *`Cargando....`*\n*✦✦✦✦⊹⊹⊹⊹⊹⊹✪* `[40%]`"
 global.waittt = "⌛ *`Cargando...`*\n*✦✦✦✦✦✦⊹⊹⊹⊹✪* `[60%]`"
 global.waitttt = "⏳ *`Cargando....`*\n*✦✦✦✦✦✦✦✦⊹⊹✪* `[80%]`"
 global.waittttt = "⌛ *`Procesando...`*\n*✦✦✦✦✦✦✦✦✦✦✪* `[100%]`"
-global.nomorown = "50250101139"
+global.nomorown = "51907376960"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 
 //-----------------------------------------------
