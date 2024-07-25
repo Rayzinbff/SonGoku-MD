@@ -9,17 +9,17 @@ handler.all = async function (m) {
 
 //------------------------------------------------
 
-global.FakeChannel = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '0029Vaj67qQJUM2Wa5Ey3y1v@newsletter', newsletterName: "『🐉SonGOKU-MD🐉』", serverMessageId: -1 }
+global.FakeChannel = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363297698348123@newsletter', newsletterName: "『🐉SonGOKU-MD🐉』", serverMessageId: -1 }
 }}, { quoted: m }
 
 //-----------------------------------------------
 
-global.Fakechannel = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '0029Vaj67qQJUM2Wa5Ey3y1v@newsletter', newsletterName: "『🐉SonGOKU-MD🐉』", serverMessageId: -1 }, forwardingScore: 999, externalAdReply: { title: gt, body: wm, thumbnailUrl: fantasyImg.getRandom(), sourceUrl: md, mediaType: 1, renderLargerThumbnail: false
+global.Fakechannel = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363297698348123@newsletter', newsletterName: "『🐉SonGOKU-MD🐉』", serverMessageId: -1 }, forwardingScore: 999, externalAdReply: { title: gt, body: wm, thumbnailUrl: fantasyImg.getRandom(), sourceUrl: md, mediaType: 1, renderLargerThumbnail: false
 }}}, { quoted: m }
 
 //--------------------------------------------------
 var canal = [
-{ link: canalofc, id: "0029Vaj67qQJUM2Wa5Ey3y1v@newsletter", name: "『🐉SonGOKU-MD🐉』" }]
+{ link: canalofc, id: "120363297698348123@newsletter", name: "『🐉SonGOKU-MD🐉』" }]
 var channelsLPD = canal
 
 global.channelWa = { contextInfo: { mentionedJid: null, forwardingScore: 1, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: channelsLPD.id, serverMessageId: '', newsletterName: channelsLPD.name }, externalAdReply: { title: wm, body: gt, mediaType: 1, renderLargerThumbnail: false, previewType: `PHOTO`, thumbnailUrl: fantasyImg.getRandom(), thumbnail: imagen1, sourceUrl: canalofc }}}, { quoted: m }
