@@ -107,8 +107,8 @@ global.country = '' // Add country, example: 🇵🇪
 //------------------------------------------------
 global.fantasy = "SonGoku Zt ᵇʸ\nZxYerSixZx " // new name
 global.wilmerofc = "SonGoku 🐲" // fkontak2
-global.packname = `├┈‧͙⁺˚･༓☾ ZxYerSixZx ☽༓･˚⁺‧͙\n├┈ ⟴ 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n├┈ @wilmer.oficial\n├┈ ⟴ 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n├┈ @cmwilmer4\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊷⇲⊰⌏`
-global.author =  ` ├┈‧͙･༓☾ 𝚆𝙸𝙻𝙼𝙴𝚁 𝙾𝙵𝙲 ☽༓･˚\n├┈⟴ 𝙶𝚒𝚝𝙷𝚞𝚋:\n├┈ Wilsmac\n├┈ ⟴ 𝙿𝚊𝚢𝙿𝚊𝚕:\n├┈ @wilmermacu1\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊷⇲⊰⌏`
+global.packname = `├┈‧͙⁺˚･༓☾ ZxYerSixZx ☽༓･˚⁺‧͙\n├┈ ⟴ 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n├┈ ZxYerSixZx.oficial\n├┈ ⟴ 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n├┈ @yer29_07\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊷⇲⊰⌏`
+global.author =  ` ├┈‧͙･༓☾ ZxYerSixZx ☽༓･˚\n├┈⟴ 𝙶𝚒𝚝𝙷𝚞𝚋:\n├┈ YerTX2\n├┈ ⟴ 𝙿𝚊𝚢𝙿𝚊𝚕:\n├┈ @YerSix\n╰⊱⊶⊷⊶⊷⊶⊷⊶⊷⇲⊰⌏`
 
 //----------------------------------------------------------
 
