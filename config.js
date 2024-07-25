@@ -151,7 +151,7 @@ global.paypal = 'https://paypal.me/'
 global.asistencia = 'https://wa.me/message/C45GXBEFTPONE1' //Contacto
 global.bot = 'wa.me/51907376960'
 
-global.nna = 'https://www.atom.bio/ZxYerSixZx/' // Cuentas
+global.nna = 'https://atom.bio/zxyersixzx_/' // Cuentas
 global.nn2 = 'https://t.me/' // 
 global.nna2 = 'https://whatsapp.com/channel/0029Vaj67qQJUM2Wa5Ey3y1v' //Anime y social 
 global.nn = 'https://whatsapp.com/channel/0029Vaj67qQJUM2Wa5Ey3y1v' // FantasyBot-MD 
