@@ -709,7 +709,7 @@ await conn.sendMessage(m.chat, { video: { url: natsuki.getRandom() }, gifPlaybac
 contextInfo: {
 isForwarded: true,
 forwardedNewsletterMessageInfo: {
-newsletterJid: '0029Vaj67qQJUM2Wa5Ey3y1v@newsletter',
+newsletterJid: '120363297698348123@newsletter',
 newsletterName: "[🐉SonGOKU-MD🐉]",
 serverMessageId: -1
 },
