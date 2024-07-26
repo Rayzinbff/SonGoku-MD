@@ -133,6 +133,7 @@ let menu = `¡HOLA! 👋🏻 • ${username}\n𝘽𝙄𝙀𝙉𝘽𝙀𝙉𝙄�
 > │  ◦ _${usedPrefix}consejo_
 > │  ◦ _${usedPrefix}morse codificar *texto*_
 > │  ◦ _${usedPrefix}morse decodificar *morse*_
+> │  ◦ _${usedPrefix}tw |spotify | spotify *link*_
 > │  ◦ _${usedPrefix}fraseromantica_
 > │  ◦ _${usedPrefix}historia_
 > ╚─━━━━━━━━░★░━━━━━━─╝*`.trim()
