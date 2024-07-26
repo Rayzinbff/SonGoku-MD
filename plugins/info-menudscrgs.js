@@ -113,6 +113,7 @@ let menu = `¡HOLA! 👋🏻 • ${username}\n𝘽𝙄𝙀𝙉𝘽𝙀𝙉𝙄�
 > │  ◦ _${usedPrefix}wallpaper|wp *texto*_
 > │  ◦ _${usedPrefix}play | play2 *texto o link*_
 > │  ◦ _${usedPrefix}play.1 *texto o link*_
+> │  ◦ _${usedPrefix}spotify |spotify | spotify *link*_
 > │  ◦ _${usedPrefix}play.2 *texto o link*_ 
 > │  ◦ _${usedPrefix}ytmp3 | yta *link*_
 > │  ◦ _${usedPrefix}ytmp4 | ytv *link*_
@@ -133,7 +134,6 @@ let menu = `¡HOLA! 👋🏻 • ${username}\n𝘽𝙄𝙀𝙉𝘽𝙀𝙉𝙄�
 > │  ◦ _${usedPrefix}consejo_
 > │  ◦ _${usedPrefix}morse codificar *texto*_
 > │  ◦ _${usedPrefix}morse decodificar *morse*_
-> │  ◦ _${usedPrefix}tw |spotify | spotify *link*_
 > │  ◦ _${usedPrefix}fraseromantica_
 > │  ◦ _${usedPrefix}historia_
 > ╚─━━━━━━━━░★░━━━━━━─╝*`.trim()
