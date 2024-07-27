@@ -83,20 +83,22 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 if (!/web|desktop|unknown/gi.test(dispositivo)) {  
 let menu = `
 
-╭═══〘 ❀❀❀❀❀❀❀ 〙══╮
+╭═══〘 ⚔️⚔️⚔️⚔️⚔️ 〙══╮
 ║ *BIENVENID(A) AL MENÚ*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤   *LA BIBLIA*
 ╰═══╡𖣘𖣘𖣘𖣘𖣘𖣘𖣘╞═══╯
 
-  ♡  ∩_∩
-  （„• ֊ •„)♡
- ┏━━∪∪━⏤͟͟͞͞★꙲⃝͟🌷❈┉━━━┓
+  /﹋\
+(҂`_´)
+<,︻╦╤─ ҉ - -----💥
+/﹋\. 
+ ┏━━━━━━━━━━━━━━━━━━┓
  ╰ᴇᴄᴏɴᴏᴍɪ́ᴀ ꙰
 \`Experiencia:\` ${exp} ⚡
 \`Diamantes:\` ${limit} 💎
 \`Coins:\` ${money} 💵
-\`Tokens:\` ${joincount} 🪙\n ┗━━━━⏤͟͟͞͞★꙲⃝͟🌷❈┉━━━━━━┛`.trim()
+\`Tokens:\` ${joincount} 🪙\n ╚─━━━━━━░★░━━━━━━━━─╝ `.trim()
 
 const buttonParamsJson = JSON.stringify({
 title: "✩ 𝙻𝙸𝚂𝚃𝙰 𝙷𝙾𝚁𝙽𝚈 ✩",
@@ -158,7 +160,7 @@ rows: [
 const interactiveMessage = {
 body: { text: menu },
 footer: { text: fantasy + ` \n☃️` },
-header: { title: `⋆┈┈｡❃ུ۪ ❀ུ۪ ❁ུ۪ ❃ུ۪ ❀ུ۪ ｡┈┈⋆\n-ˋˏᴜsᴜᴀʀɪᴏ: ˎˊ-\n╭━━━━━━━━━━━━━━━╮\n┃🍁❥̷᜔ ${username}❁⃟ࣾ❥̷.⁞. ┃\n╰━━━┳━━━━━━━━━━━╯`, subtitle: "test4", hasMediaAttachment: false },
+header: { title: `⋆⚔️⚔️⚔️⚔️⚔️⚔️ ｡┈┈⋆\n-ˋˏᴜsᴜᴀʀɪᴏ: ˎˊ-\n╭━━━━━━━━━━━━━━━╮\n┃⚔️🪐 ${username}🌟.⁞. ┃\n╰━━━┳━━━━━━━━━━━╯`, subtitle: "test4", hasMediaAttachment: false },
 nativeFlowMessage: { buttons: [{ 
 name: "single_select",
 buttonParamsJson
