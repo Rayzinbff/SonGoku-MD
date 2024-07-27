@@ -141,3 +141,23 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/YerTX2"><img src="https://github.com/YerTX2.png" width="200" height="200" alt="Wilsmac"/></a>
 
 `DESARROLLADOR DEL BOT (@YerTX2)`
+
+ALOJAMIENTO 
+BOT 24/7
+    
+      
+
+### 🟢 INFINITY HOST
+### □ ACTIVAR EN INFINITY-HOST
+[![blog](https://img.shields.io/badge/Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+](https://youtu.be/c9RCnOV418E?si=kNWog_fSi8wCWX3A)
+
+<a href="https://dashboard.infinitywa.xyz"><img src="https://qu.ax/TPhh.jpg" height="125px"></a>
+
+- **Página:** [`Click aqui`](https://infinitywa-host.com/)
+- **Dashboard:** [`Aquí`](https://dash.infinitywa-host.com)
+- **Panel:** [`Aquí`](https://panel.infinitywa-host.com)
+- **Grupo de WhatsApp:** [`Aquí`](https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV)
+- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A)
+
+- **Discord:** [`Aqui`](https://discord.com/invite/vgfpe4Nwd8)
