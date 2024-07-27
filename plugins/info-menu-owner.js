@@ -144,7 +144,7 @@ let menu = `${lenguajeCD['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ╰━─━─━─━─━─≪✠≫─━──━─━━─━╯*`.trim()
 //await conn.sendFile(m.chat, FantasyVidMenu.getRandom(), 'error.mp4', menu, fake0)
 
-const natsuki = ['https://telegra.ph/file/7cd4e374a0f20db13b728.mp4',
+const natsuki = ['https://telegra.ph/file/9b06a891c9a6d4fe30de4.mp4',
 'https://telegra.ph/file/9b06a891c9a6d4fe30de4.mp4',
 'https://telegra.ph/file/55b10d3aed098b3c06294.mp4']
 
