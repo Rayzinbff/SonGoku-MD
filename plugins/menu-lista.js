@@ -85,17 +85,17 @@ let menu = `
 \`Fecha y hora:\` undefined 
    ↷ ɪɴғᴏ ᴅᴇ ʙᴏᴛ
 ${conn.user.jid == global.conn.user.jid ? '' : `\n𝙉𝙖𝙩𝙨𝙪𝙠𝙞 [𝙎𝙪𝙗 𝘽𝙤𝙩]⇢ @${global.conn.user.jid.split`@`[0]}`}
-─━━━━┉❈⏤͟͟͞͞★꙲⃝͟🍁❈┉━━━━─
+━━━━━━━✦✗✦━━━━━━━━ 
  *${lenguajeCD['smsTotalUsers']()}* ➺ _${Object.keys(global.db.data.users).length}_
-─━━━━┉❈⏤͟͟͞͞★꙲⃝͟🍁❈┉━━━━─
+━━━━━━━✦✗✦━━━━━━━━
  *${lenguajeCD['smsVersion']()}* ➺ _${vs}_
-─━━━━┉❈⏤͟͟͞͞★꙲⃝͟🍁❈┉━━━━─
+━━━━━━━✦✗✦━━━━━━━━
  *${lenguajeCD['smsMode']()} ➺* _${global.opts['self'] ? `${lenguajeCD['smsModePrivate']().charAt(0).toUpperCase() + lenguajeCD['smsModePrivate']().slice(1).toLowerCase()}` : `${lenguajeCD['smsModePublic']().charAt(0).toUpperCase() + lenguajeCD['smsModePublic']().slice(1).toLowerCase()}`}_
-─━━━━┉❈⏤͟͟͞͞★꙲⃝͟🍁❈┉━━━━─
+━━━━━━━✦✗✦━━━━━━━━
  *${lenguajeCD['smsBanChats']()}* ➺ _${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}_
-─━━━━┉❈⏤͟͟͞͞★꙲⃝͟🍁❈┉━━━━─
+━━━━━━━✦✗✦━━━━━━━━
  *${lenguajeCD['smsBanUsers']()}* ➺ _${Object.entries(global.db.data.users).filter(user => user[1].banned).length}_
-─━━━━┉❈⏤͟͟͞͞★꙲⃝͟🍁❈┉━━━━─
+━━━━━━━✦✗✦━━━━━━━━
 
   OO═══∩═══OO
 ...........╭╬╮ ◢
